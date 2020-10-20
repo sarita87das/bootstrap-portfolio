@@ -33,12 +33,6 @@ p {
 .list-group-item {
     background-color: rgba(0, 0, 0, 0.274);
 }
-
-#contactMe {
-    text-align: center;
-    color: black;
-}
-
 footer {
     text-align: center;
     margin-bottom: 15px;
